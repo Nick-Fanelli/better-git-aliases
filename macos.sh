@@ -1,0 +1,1 @@
+git config --global alias.cm '!git add .; git commit -m'
