@@ -12,3 +12,5 @@ git config --global alias.logg "log --color --graph --pretty=format:'%Cred%h%Cre
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"
 
 git config --global alias.stat "status"
+
+git config --global alias.del-branch 'push origin --delete'
